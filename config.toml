@@ -1,7 +1,6 @@
 baseURL = 'https://minhnguyen-phd.com/'
 languageCode = 'en-us'
 title = 'Academic profile and blog of Dr. Minh N. Nguyen'
-theme = 'hugo-xmin'
 
 [params]
 favicon = "favicon.ico"
