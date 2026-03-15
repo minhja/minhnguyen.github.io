@@ -1,0 +1,56 @@
+baseurl: "https://minhnguyen-phd.com/"
+languageCode: "en-us"
+title: "Dr. Minh N. Nguyen"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  posts: "/posts/:year/:month/:day/:slug/"
+
+menus:
+  main:
+    - name: Home
+      pageref: /
+      weight: 10
+    - name: Research
+      pageref: /research
+      weight: 20
+    - name: Posts
+      pageref: /posts
+      weight: 30
+    - name: Publications
+      pageref: /pubs
+      weight: 40
+    - name: CV
+      pageref: /cv
+      weight: 50
+
+params:
+  description: "Dr. Minh N. Nguyen"
+  footer: "&copy; Minh N. Nguyen ({Year}). [Subscribe RSS.](/index.xml)"
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)

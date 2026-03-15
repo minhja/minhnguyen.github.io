@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'Bitter';
+	src: url('/fonts/Bitter-Medium.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitter';
+	src: url('/fonts/Bitter-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitter';
+	src: url('/fonts/Bitter-MediumItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bitter';
+	src: url('/fonts/Bitter-BoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+	src: url('/fonts/OpenSans-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+	src: url('/fonts/OpenSans-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+	src: url('/fonts/OpenSans-Italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+	src: url('/fonts/OpenSans-BoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+body {
+  font-family: Open Sans, serif;
+}
+
+h1, h2, h3, h4  {
+  font-family: Open Sans, sans-serif;
+}
+
+code {
+  font-family: Consolas, monospace;
+  font-size: 85%;
+}
