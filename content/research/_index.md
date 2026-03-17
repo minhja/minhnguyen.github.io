@@ -17,7 +17,7 @@ However, in larger pores (100−400 nm in diameter), the majority of micropollut
 
 Beside the fundamental researches, I have conducted several investigations on the membrane performance with real water matrices, and analytical method development. To view the full list of my publications, click [**here**](../pubs).
 
-<!--[My research directions](/me.png)-->
+![My research directions](/aboutme.png)
 
 ## My current research directions
 
