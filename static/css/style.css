@@ -9,9 +9,9 @@ body {
 }
 
 p {
+  margin: 1em 0;
   word-wrap: normal;
   hyphens: manual;
-  margin-top: 5px;
 }
 
 mark {
@@ -38,13 +38,13 @@ li {
 
 /* header and footer areas */
 .menu { padding: 0; }
-.menu li { display: inline-block; margin: 0; padding: 5px 1px;}
+.menu li { display: inline-block; margin: 0; padding: 5px 2px;}
 .article-meta, .menu a {
   color: #006837; 
   font-size: 1em;
   text-decoration: none;
   background: #e5f5e0;
-  padding: 5px 20px; 
+  padding: 5px 15px; 
   border-radius: 20px;
 }
 
