@@ -5,13 +5,12 @@ author: Minh N. Nguyen
 
 [**PDF version of the CV and publication list**](/academic-CV-MinhNguyen-latest.pdf)
 
-**Total:** 18 papers; **First author:** 10 papers.
-<!-- 
+**Total:** 17 papers; **First author:** 10 papers.
+<!-- T. Malkoske, **M.N. Nguyen**, S. Erpel, M. Wyss, A.I. Schäfer (2026), *Real-time quantification of nanoplastics deposition and release during backwash in nanofiltration using laser-induced breakdown detection (LIBD)*, in preparation. <mark>(concepts, data analysis, manuscript revision)</mark> -->
 
--->
+<div class="pubs">
 
-1. T. Malkoske, **M.N. Nguyen**, S. Erpel, M. Wyss, A.I. Schäfer (2026), *Real-time quantification of nanoplastics deposition and release during backwash in nanofiltration using laser-induced breakdown detection (LIBD)*, in preparation. <mark>(concepts, data analysis, manuscript revision)</mark>
-1. **M.N. Nguyen**, R. Jin, B. Corry, A.I. Schäfer (2026), *Molecular interactions governing retention, adsorption and transport of steroid hormone micropollutant molecules in smooth and cylindrical nanopores*, submitted. <mark>(concepts, model development, data analysis, manuscript writing)</mark>
+1. **M.N. Nguyen**, R. Jin, B. Corry, A.I. Schäfer (2026), *Molecular interactions governing retention, adsorption and transport of steroid hormone micropollutant molecules in smooth and cylindrical nanopores*, **under review**. <mark>(concepts, model development, data analysis, manuscript writing)</mark>
 1. P.B. Trinh, **M.N. Nguyen**, Z. Futera, B. Minofar, P.B. Petersen, A.I. Schäfer (2026), *Removal of glyphosate and aminomethylphosphonic acid (AMPA) by nanofiltration membranes: Effects of hydration*, accepted by Nature Communications. <mark>(concepts, data analysis, manuscript revision)</mark>
 1. M. Krajewska, **M.N. Nguyen**, A.I. Schäfer (2026), *Interference of the real water matrix with micropollutant removal via advanced filtration: Insights from the Goreangab Reservoir in Namibia*, Environmental Science & Technology, 140775. [DOI](https://doi.org/10.1021/acs.est.5c14077) <mark>(concepts, data analysis, manuscript revision)</mark>
 1. H.-Y. Lin, **M.N. Nguyen**, A.I. Schäfer (2025), *Steroid hormone micropollutant removal from membrane bioreactor effluents using single-wall carbon nanotube composite nanofiber membranes*, Chemical Engineering Journal, ***526***, 170335. [DOI](https://doi.org/10.1016/j.cej.2025.170335) <mark>(concepts, data analysis, manuscript revision)</mark> 
@@ -28,3 +27,5 @@ author: Minh N. Nguyen
 1. J. Zhang, **M.N. Nguyen**, Y. Li, C. Yang, A.I. Schäfer (2020) *Steroid hormone micropollutant removal from water with activated carbon fiber-ultrafiltration composite membranes*, Journal of Hazardous Materials, ***391***, 122020. [DOI](https://doi.org/10.1016/j.jhazmat.2020.122020) <mark>(concepts, supervision, manuscript revision)</mark> 
 1. **M.N. Nguyen**, P. Loulergue, N.K.V. Leitner, B. Teychene (2019) *Electron beam irradiation of polyvinylidene fluoride/polyvinylpyrrolidone ultrafiltration membrane in presence of zwitterions molecules − Evaluation of filtration performances*, Radiation Physics and Chemistry, ***159***, 101-110. [DOI](https://doi.org/10.1016/j.radphyschem.2019.02.029) <mark>(experiments, manuscript writing)</mark> 
 1. **M.N. Nguyen**, N.K.V. Leitner, B. Teychene (2017) *Modification of hollow fiber membranes through electron beam irradiation*, Chemical Engineering Transactions (Proceeding), ***60***, 289-294. [DOI](https://doi.org/10.3303/CET1760049) <mark>(experiments, manuscript writing)</mark> 
+
+</div>

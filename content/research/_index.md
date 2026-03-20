@@ -7,7 +7,7 @@ author: Minh N. Nguyen
 
 I conducted my Ph.D. study from 2018 to 2022 under the guidance of Prof. Andrea I. Schäfer to investigate the physical interactions between steroid hormone micropollutants and composite membranes that contain carbon-based nano-adsorbents.
 
-Since October 2022, I have carried out postdoctoral-level research in the same group under a funded DFG grant (SOLEMBA), expanding my work to chemical reactions in photocatalytic membrane reactors.
+From October 2022 to December 2025, I carried out postdoctoral-level research in the same group under a funded DFG grant (SOLEMBA), expanding my work to chemical reactions in photocatalytic membrane reactors.
 
 During my Ph.D. and postdoc studies, Prof. Schäfer and I have published together several key papers on the fundamental interactions in nanopores. Below are two examples.
 
