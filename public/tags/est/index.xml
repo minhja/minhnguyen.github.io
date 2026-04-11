@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paper on Dr. Minh N. Nguyen</title>
-    <link>http://localhost:1313/categories/paper/</link>
-    <description>Recent content in Paper on Dr. Minh N. Nguyen</description>
+    <title>EST on Dr. Minh N. Nguyen</title>
+    <link>http://localhost:1313/tags/est/</link>
+    <description>Recent content in EST on Dr. Minh N. Nguyen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/paper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/est/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New publication in Environmental Science &amp; Technology</title>
       <link>http://localhost:1313/posts/2026/02/10/publication-est/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2026/02/10/publication-est/</guid>
       <description>&lt;p&gt;Pleased to share that our paper titled &lt;strong&gt;Interference of the real water matrix with micropollutant removal via advanced filtration: Insights from the Goreangab Reservoir in Namibia&lt;/strong&gt; has been accepted for publication in Enviromental Science &amp;amp; Technology (EST) journal (&lt;a href=&#34;https://doi.org/10.1021/acs.est.5c14077&#34;&gt;link here&lt;/a&gt;, 2025 IF of 11.3).&lt;/p&gt;&#xA;&lt;p&gt;Dr. Martyna Krajewska – my IAMT-KIT colleague – wrote this exciting paper comparing &lt;strong&gt;nine&lt;/strong&gt; different pressure-driven and advanced membrane processes for removing micropollutants in the Goreangab Reservoir water. I contributed to the development of filtration protocols that allow meaningful comparison, carried out a number of filtration experiments with photocatalytic membranes, performed organic matter analysis, and revised the texts.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New publication in Chemical Engineering Journal</title>
-      <link>http://localhost:1313/posts/2025/11/20/publication-cej/</link>
-      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/11/20/publication-cej/</guid>
-      <description>&lt;p&gt;Our paper titled &lt;strong&gt;Steroid hormone micropollutant removal from membrane bioreactor effluents using single-walled carbon nanotube composite nanofiber membranes&lt;/strong&gt; has been accepted for publication in Chemical Engineering Journal (&lt;a href=&#34;https://doi.org/10.1016/j.cej.2025.170335&#34;&gt;link here&lt;/a&gt;, 2025 IF of 13.5).&lt;/p&gt;&#xA;&lt;p&gt;Han-Ya Lin, my Taiwanese colleague and a final-year Ph.D. student at KIT-IAMT, performed rigorous experiments and wrote most of the paper. I contributed in several aspects (time keeping, organic matter analysis, and text revision).&lt;/p&gt;&#xA;&lt;p&gt;This paper highlights the challenges of introducing novel technologies (such as dynamic adsorption by carbon nanotubes) into real-world water treatment, specifically micropollutant removal.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

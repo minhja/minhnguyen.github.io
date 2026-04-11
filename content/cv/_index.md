@@ -7,23 +7,23 @@ author: Minh N. Nguyen
 
 ## Academic Experience
 
-*Jan 2026 – present:* **Group Leader**, Karlsruhe Institute of Technology (KIT), Germany
+**Jan 2026 – present:** *Group Leader*, Karlsruhe Institute of Technology (KIT), Germany
 
-*Oct 2022 − Dec 2025:* **Posdoctoral Researcher**, KIT, Germany
+**Oct 2022 − Dec 2025:** *Posdoctoral Researcher*, KIT, Germany
 
-*Jan − Apr 2022:* **Research Intern (part of Ph.D.)**, DVGW-Technologiezentrum Wasser (TZW), Germany
+**Jan − Apr 2022:** *Research Intern (part of Ph.D.)*, DVGW-Technologiezentrum Wasser (TZW), Germany
 
-*Apr 2017 − Apr 2018:* **Research Assistant**, KIT, Germany
+**Apr 2017 − Apr 2018:** *Research Assistant*, KIT, Germany
 
-*Sep 2014 – Mar 2017:* **Researcher**, Inst. of Environ. Technol. (IET), Vietnam Acad. of Sci. and Technol. (VAST), Vietnam
+**Sep 2014 – Mar 2017:** *Researcher*, Inst. of Environ. Technol. (IET), Vietnam Acad. of Sci. and Technol. (VAST), Vietnam
 
 ## Education
 
-*May 2018 – Sep 2022:* **Ph.D.** at KIT, Germany. Supervisor: Prof. Dr. Andrea Iris Schäfer
+**May 2018 – Sep 2022:** *Ph.D. (Dr.-Ing.)* at KIT, Germany. Supervisor: Prof. Dr. Andrea Iris Schäfer
 
-*Sep 2014 − Jul 2016:* **M.Sc.** at Uni. of Sci. and Technol. of Hanoi (USTH), Vietnam, joint with National Inst. of Applied Sciences (INSA) Toulouse, France
+**Sep 2014 − Jul 2016:** *M.Sc.* at Uni. of Sci. and Technol. of Hanoi (USTH), Vietnam, joint with National Inst. of Applied Sciences (INSA) Toulouse, France
 
-*Sep 2011 – Jul 2014:* **B.Sc.** at University of Durham, United Kingdom
+**Sep 2011 – Jul 2014:** *B.Sc.* at University of Durham, United Kingdom
 
 ## Activities in the Research System
 

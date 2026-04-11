@@ -5,11 +5,11 @@ author: Minh N. Nguyen
 
 [**PDF version of the CV and publication list**](/academic-CV-MinhNguyen-latest.pdf)
 
-**Total:** 17 papers; **First author:** 10 papers.
-<!-- T. Malkoske, **M.N. Nguyen**, S. Erpel, M. Wyss, A.I. Schäfer (2026), *Real-time quantification of nanoplastics deposition and release during backwash in nanofiltration using laser-induced breakdown detection (LIBD)*, in preparation. <mark>(concepts, data analysis, manuscript revision)</mark> -->
+**Total:** 18 papers; **First author:** 10 papers.
 
 <div class="pubs">
 
+1. T. Malkoske, **M.N. Nguyen**, S. Erpel, M. Wyss, A.I. Schäfer (2026), *Real-time quantification of nanoplastics deposition and release during backwash in nanofiltration using laser-induced breakdown detection (LIBD)*, **under review**. <mark>(concepts, data analysis, manuscript revision)</mark> 
 1. **M.N. Nguyen**, R. Jin, B. Corry, A.I. Schäfer (2026), *Molecular interactions governing retention, adsorption and transport of steroid hormone micropollutant molecules in smooth and cylindrical nanopores*, **under review**. <mark>(concepts, model development, data analysis, manuscript writing)</mark>
 1. P.B. Trinh, **M.N. Nguyen**, Z. Futera, B. Minofar, P.B. Petersen, A.I. Schäfer (2026), *Removal of glyphosate and aminomethylphosphonic acid (AMPA) by nanofiltration membranes: Effects of hydration*, accepted by Nature Communications. <mark>(concepts, data analysis, manuscript revision)</mark>
 1. M. Krajewska, **M.N. Nguyen**, A.I. Schäfer (2026), *Interference of the real water matrix with micropollutant removal via advanced filtration: Insights from the Goreangab Reservoir in Namibia*, Environmental Science & Technology, 140775. [DOI](https://doi.org/10.1021/acs.est.5c14077) <mark>(concepts, data analysis, manuscript revision)</mark>

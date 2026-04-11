@@ -64,30 +64,6 @@ hr {
   color: #ddd;
 }
 
-/* containers */
-.container {
-    display: flex;
-    column-gap: clamp(15px, 15vw, 300px);
-    align-items: left;
-}
-
-.container img {
-    width: 250px;
-    height: auto;
-    border-radius: 50%;
-}
-
-@media (max-width: 768px) {
-    .container {
-        flex-direction: column;
-        
-    }
-    .container img {
-        text-align: center;
-        max-width: 100%;
-    }
-}
-
 /* code */
 pre {
   border: 1px solid #ddd;
@@ -99,7 +75,48 @@ code { background: #deebf7; }
 pre code { background: none; }
 
 /* misc elements */
-img, iframe, video { max-width: 80%; }
+img, iframe, video { max-width: 75%; }
+
+/* containers */
+.container {
+    display: flex;
+    column-gap: clamp(15px, 15vw, 300px);
+    align-items: left;
+}
+
+.container_2 {
+    display: flex;
+    column-gap: 5px;
+    align-items: left;
+}
+
+.container img {
+    width: 250px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.container_2 img {
+    max-width: 500px;
+    margin-top: 10px;
+}
+
+@media (max-width: 750px) {
+    img {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .container, .container_2 {
+        flex-direction: column;      
+    }
+    .container, .container_2 img {
+        margin-top: 0;
+        width: 100%; 
+    }
+}
+
 main { hyphens: auto; }
 blockquote {
   background: #deebf7;

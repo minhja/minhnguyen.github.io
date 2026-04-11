@@ -8,14 +8,13 @@ author: Minh N. Nguyen
 <div class="container">
 
 <div class="text">
-
-**Email:** minh.nguyen (at) kit.edu
+<b>Email:</b> minh.nguyen (at) kit.edu
 
 **Phone:** +49 (0)721 608 24361
 
-**Address:**<br>Institute for Advanced Membrane Technology (IAMT)<br>Karlsruhe Institute of Technology (KIT)<br>Hermann-von-Helmholtz-Platz 1<br>76344 Eggenstein-Leopoldshafen<br>Germany
+**Address**:<br>Institute for Advanced Membrane Technology (IAMT)<br>Karlsruhe Institute of Technology (KIT)<br>Hermann-von-Helmholtz-Platz 1<br>76344 Eggenstein-Leopoldshafen<br>Germany
 
-**ORCID ID:** 0000-0002-8614-4640
+**ORCID ID:** [0000-0002-8614-4640](https://orcid.org/0000-0002-8614-4640)
 
 **LinkedIn:** [nguyen-nhat-minh](https://www.linkedin.com/in/nguyen-nhat-minh/)
 
