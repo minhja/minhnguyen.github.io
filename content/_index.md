@@ -8,7 +8,9 @@ author: Minh N. Nguyen
 <div class="container">
 
 <div class="text">
-<b>Email:</b> minh.nguyen (at) kit.edu
+
+**Email:** minh.nguyen (at) kit.edu
+
 **Phone:** +49 (0)721 608 24361
 
 **Address**:<br>Institute for Advanced Membrane Technology (IAMT)<br>Karlsruhe Institute of Technology (KIT)<br>Hermann-von-Helmholtz-Platz 1<br>76344 Eggenstein-Leopoldshafen<br>Germany
@@ -27,7 +29,7 @@ author: Minh N. Nguyen
 
 I am an early-career scientist conducting research with pressure-driven (micro-, ultra- and nanofiltration) membranes and reactive (adsorptive and photocatalytic) membranes for water treatment.
 
-By breaking down the complexity of the membrane at multiple scales, I investigate the fundamental physiochemical interactions at the membrane surface as well as inside the membrane pores. My aim is to reveal the interconnection between material nanostructure, mass transfer, and reactivity. 
+By breaking down the complexity of the membrane at multiple scales, I investigate the fundamental physiochemical interactions both at the membrane surface and inside the membrane pores. My aim is to reveal the interconnection between material nanostructure, mass transfer, and reactivity. 
 
 My research contributes to the understanding of membrane processes for removing pollutants, namely, steroid hormones, pesticides, and nanoplastics, that are toxic at very low concentrations in the water sources. 
 

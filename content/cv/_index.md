@@ -39,7 +39,7 @@ author: Minh N. Nguyen
 
 ### Contributions to grants
 
-**M. N. Nguyen**, A.I. Schäfer, T. Segal-Peretz: BMFTR−MOST German–Israeli Water Technology Cooperation Program (405k EUR), *Enhancing Boron and Micropollutant Removal from Water by Molecular Layer Deposition Membranes (EMPOWERED)*, 2026 – 2029. Contributions: core technical sections and management.
+**M. N. Nguyen**, A.I. Schäfer, T. Segal-Peretz: BMFTR−MOST German–Israeli Water Technology Cooperation Program (406.67k EUR), *Enhancing Boron and Micropollutant Removal from Water by Molecular Layer Deposition Membranes (EMPOWERED)*, 2026 – 2029. Contributions: core technical sections and management.
 
 A.I. Schäfer, B. Corry, DAAD-PPP Personal Exchange between KIT and Australian National University (23.48k EUR), *Improving micropollutant and inorganic pollutant removal from water supplies via molecular dissection of their transport in nanofiltration membranes*, 2024 – 2025. Contributions: core technical sections and management.
 

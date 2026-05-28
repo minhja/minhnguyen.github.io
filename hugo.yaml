@@ -1,5 +1,5 @@
 baseurl: "https://minhnguyen-phd.com/"
-languageCode: "en-us"
+locale: "en-us"
 title: "Dr. Minh N. Nguyen"
 theme: "hugo-xmin"
 googleAnalytics: ""
@@ -13,19 +13,19 @@ permalinks:
 menus:
   main:
     - name: Home
-      pageref: /
+      url: /
       weight: 10
     - name: Research
-      pageref: /research
+      url: /research
       weight: 20
     - name: Posts
-      pageref: /posts
+      url: /posts
       weight: 30
     - name: Publications
-      pageref: /pubs
+      url: /pubs
       weight: 40
     - name: CV
-      pageref: /cv
+      url: /cv
       weight: 50
 
 params:
