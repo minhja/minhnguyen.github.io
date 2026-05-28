@@ -12,14 +12,12 @@ slug: publication-EST
 
 Pleased to share that our paper titled **Interference of the real water matrix with micropollutant removal via advanced filtration: Insights from the Goreangab Reservoir in Namibia** has been accepted for publication in Enviromental Science & Technology (EST) journal (2025 IF of 11.3).
 
-Dr. Martyna Krajewska – my IAMT-KIT colleague – wrote this exciting paper comparing *nine* different pressure-driven and advanced membrane processes for removing micropollutants in the Goreangab Reservoir water.
+## What the paper is about
 
-I contributed to the development of filtration protocols that allow meaningful comparison, carried out filtration experiments with photocatalytic membranes, performed organic matter analysis, and revised the texts.
+This paper provides a comparison between *nine* pressure-driven and advanced membrane processes in removing micropollutants in the Goreangab Reservoir water.
 
-Decades ago, the Goreangab Reservoir served as a source of water (the other source is sewage effluents) for the world's first wastewater reclamation plant for direct potable use (Windhoek). Today, the reservoir is no longer usable due to deteriorated water quality and the presence of micropollutants. We detected 28 types of micropollutants, including benzotriazoles, pesticides, pharmaceuticals and personal care products, endocrine disruptors, and PFAS) in this reservoir water.
+Once a source for the world’s first direct potable reuse system (Windhoek), the reservoir has suffered from severe water quality deterioration. We detect 28 types of micropollutants, including benzotriazoles, pesticides, pharmaceuticals and personal care products, endocrine disruptors, and PFAS).
 
-The treatment conditions were tailored for a particular micropollutant type – steroid hormone 17β-estradiol (E2) – which was spiked in the reservoir water at a concentration of 100 ng/L. 
-
-We found out that membrane photocatalysis, membrane electrocatalysis, and combined ultrafiltration–adsorption are effective and comparable to nanofiltration in removing E2. However, uncertainties still remain in terms of energy requirements, susceptibility to fouling, long-term performance, and upscaling potential – these are all discussed in the paper.
+For our comparative study, the treatment conditions were tailored for a particular micropollutant type – steroid hormone 17β-estradiol (E2). E2 was spiked in the reservoir water at a concentration of 100 ng/L. Membrane photocatalysis, membrane electrocatalysis, and combined ultrafiltration–adsorption performed as good as nanofiltration in E2 removal. However, the practical limitations of these technologies include energy requirements, susceptibility to fouling, long-term performance, and upscaling potential, which were all discussed in the paper.
 
 [**Link to the publication**](https://doi.org/10.1021/acs.est.5c14077) 

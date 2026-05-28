@@ -59,7 +59,7 @@ A.I. Schäfer, B. Corry, DAAD-PPP Personal Exchange between KIT and Australian N
 
 2014 – 2016: Scholarships for Excellence, USTH, Vietnam
 
-2010: Advanced Extension Award (Distinction) in Maths
+2010: UK Advanced Extension Award (Distinction) in Maths
 
 2009: Gold Certificate in UK Senior Mathematical Challenge (highest award for non-native students)
 

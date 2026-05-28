@@ -16,11 +16,11 @@ I also set up a [**blog**](/posts/) where I share my achievements (paper publica
 
 ## The design of this website
 
-The website is simplistic and fit for its simple purposes. I keep the main sections (Research, Publications, and CV) updated from time to time. Blog posts are time-stamped and organised based on [tags](/tags/) and [categories](/categories/). No search bar, because I think it is a distraction.
+The website is simple and fit for its simple purposes. I keep the main sections (Research, Publications, and CV) updated from time to time. Blog posts are time-stamped and organised based on [tags](/tags/) and [categories](/categories/). No search bar because I think it is a distraction.
 
-Due to privacy concerns, I do not track visits or enable comments using tools such as Google Analytics or Disqus. If needs be in the future, I may opt for some privacy-focused alternatives.
+Due to privacy concerns, I do not track visits or enable comments using external tools such as Google Analytics or Disqus.
 
-If you want to follow my posts, please subscribe to the website's RSS (which is an archaic content format) at the bottom of each page, next to the copyright information.
+If you want to keep updated, please subscribe to the website's RSS (which is an archaic content format) at the bottom of each page, next to the copyright information.
 
 The website is hosted by Github and built from [Hugo](https://gohugo.io/). The website layouts are adapted from the [Hugo-Xmin theme](https://github.com/yihui/hugo-xmin) by Yihui Xie, with some slight tuning of fonts and colours.
 

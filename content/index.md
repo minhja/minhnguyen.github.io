@@ -9,7 +9,6 @@ author: Minh N. Nguyen
 
 <div class="text">
 <b>Email:</b> minh.nguyen (at) kit.edu
-
 **Phone:** +49 (0)721 608 24361
 
 **Address**:<br>Institute for Advanced Membrane Technology (IAMT)<br>Karlsruhe Institute of Technology (KIT)<br>Hermann-von-Helmholtz-Platz 1<br>76344 Eggenstein-Leopoldshafen<br>Germany
