@@ -4,12 +4,13 @@ date: '2025-12-11'
 categories:
   - award
 tags:
-  - reactive membranes
   - conference
+  - reactive membranes
+  - photocatalysis
 slug: MSA-oral-presentation
 ---
 
-Pleased to share that I received the Membrane Society of Australasia (MSA) Best Oral Presentation Award at the IMSTEC 2025 Conference, Gold Coast, Australia. The conference was an amazing event to meet new people who are on the other side of the globe and learn about their works.
+I am pleased to have received the Membrane Society of Australasia (MSA) Best Oral Presentation Award at the IMSTEC 2025 Conference, Gold Coast, Australia. The conference was an amazing event to connect with people from the other side of the globe and learn about their studies.
 
 My presentation titled **Collisions between singlet oxygen and steroid hormone micropollutants in photocatalytic membrane pores** was based on a recently published paper in Chemical Engineering Journal (2024 IF of 13.2).
 

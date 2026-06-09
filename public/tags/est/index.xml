@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>EST on Dr. Minh N. Nguyen</title>
-		<link>http://localhost:1313/tags/est/</link>
+		<link>https://minhnguyen-phd.com/tags/est/</link>
 		<description>Recent content in EST on Dr. Minh N. Nguyen</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/est/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://minhnguyen-phd.com/tags/est/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>New publication in Nature Communications</title>
-				<link>http://localhost:1313/posts/2026/04/23/publication-nc/</link>
+				<link>https://minhnguyen-phd.com/posts/2026/04/23/publication-nc/</link>
 				<pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/2026/04/23/publication-nc/</guid>
+				<guid>https://minhnguyen-phd.com/posts/2026/04/23/publication-nc/</guid>
 				<description>&lt;p&gt;I am happy to share that our latest paper titled &lt;strong&gt;The role of hydration in the removal of glyphosate (GLY) and aminomethylphosphonic acid (AMPA) by nanofiltration membranes&lt;/strong&gt; has been accepted for publication in Nature Communications journal (2025 IF of 15.7). This acceptance followed an excruciatingly long peer review and copy-editing process.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-paper-is-about&#34;&gt;What the paper is about&lt;/h2&gt;&#xA;&lt;p&gt;We examined how &lt;a href=&#34;https://en.wikipedia.org/wiki/Solvation_shell&#34;&gt;hydration&lt;/a&gt; governed the nanofiltration of small and charged pesticide micropollutants – glyphosate, &lt;em&gt;the most widely used pesticide&lt;/em&gt;, and its metabolite AMPA.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>New publication in Environmental Science &amp; Technology</title>
-				<link>http://localhost:1313/posts/2026/02/10/publication-est/</link>
+				<link>https://minhnguyen-phd.com/posts/2026/02/10/publication-est/</link>
 				<pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/2026/02/10/publication-est/</guid>
+				<guid>https://minhnguyen-phd.com/posts/2026/02/10/publication-est/</guid>
 				<description>&lt;p&gt;Pleased to share that our paper titled &lt;strong&gt;Interference of the real water matrix with micropollutant removal via advanced filtration: Insights from the Goreangab Reservoir in Namibia&lt;/strong&gt; has been accepted for publication in Enviromental Science &amp;amp; Technology (EST) journal (2025 IF of 11.3).&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-paper-is-about&#34;&gt;What the paper is about&lt;/h2&gt;&#xA;&lt;p&gt;This paper provides a comparison between &lt;em&gt;nine&lt;/em&gt; pressure-driven and advanced membrane processes in removing micropollutants in the Goreangab Reservoir water.&lt;/p&gt;&#xA;&lt;p&gt;Once a source for the world’s first direct potable reuse system (Windhoek), the reservoir has suffered from severe water quality deterioration. We detect 28 types of micropollutants, including benzotriazoles, pesticides, pharmaceuticals and personal care products, endocrine disruptors, and PFAS).&lt;/p&gt;</description>
 			</item>
 	</channel>

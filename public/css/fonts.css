@@ -26,12 +26,30 @@
 	font-style: italic;
 }
 
-body {
-  font-family: Open Sans, serif;
+@font-face {
+    font-family: 'Playfair Display';
+	src: url('/fonts/PlayfairDisplay-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
 }
 
-h1, h2, h3, h4  {
+@font-face {
+    font-family: 'Bree';
+	src: url('/fonts/BreeSerif-Regular.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+body {
   font-family: Open Sans, sans-serif;
+}
+
+h1, h2, h3  {
+  font-family: Bree, serif;
+}
+
+h1, h2  {
+  letter-spacing: 1px;
 }
 
 code {

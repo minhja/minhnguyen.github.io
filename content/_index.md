@@ -27,11 +27,11 @@ author: Minh N. Nguyen
 
 ## About Me
 
-I am an early-career scientist conducting research with pressure-driven (micro-, ultra- and nanofiltration) membranes and reactive (adsorptive and photocatalytic) membranes for water treatment.
+I am an early-career scientist working with pressure-driven (micro-, ultra- and nanofiltration) membranes and reactive (adsorptive and photocatalytic) membranes for water treatment.
 
-By breaking down the complexity of the membrane at multiple scales, I investigate the fundamental physiochemical interactions both at the membrane surface and inside the membrane pores. My aim is to reveal the interconnection between material nanostructure, mass transfer, and reactivity. 
+Through careful design of experiments, I investigate the fundamental physiochemical interactions both at the membrane surface and inside the membrane pores. My aim is to reveal how material nanostructure, mass transfer, and reactivity affect one another in membrane processes. 
 
-My research contributes to the understanding of membrane processes for removing pollutants, namely, steroid hormones, pesticides, and nanoplastics, that are toxic at very low concentrations in the water sources. 
+My research contributes to the mechanistic understanding of the membranes for removing pollutants, namely, steroid hormones, pesticides, and nanoplastics, that are toxic at very low concentrations in the water sources.
 
 For a more detailed explanation of my researches, please refer to the [**Research**](/research/) section. 
 

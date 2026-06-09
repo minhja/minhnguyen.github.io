@@ -1,5 +1,5 @@
 baseURL = 'https://minhnguyen-phd.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Academic profile and blog of Dr. Minh N. Nguyen'
 
 [params]

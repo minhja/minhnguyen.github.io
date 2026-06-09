@@ -75,7 +75,7 @@ code { background: #deebf7; }
 pre code { background: none; }
 
 /* misc elements */
-img, iframe, video { max-width: 75%; }
+img, iframe, video { max-width: 750px; }
 
 /* containers */
 .container {

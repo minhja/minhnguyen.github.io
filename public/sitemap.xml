@@ -6,10 +6,13 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/est/</loc>
+    <loc>http://localhost:1313/tags/collaboration/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nanofiltration/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2026/04/23/publication-nc/</loc>
@@ -24,13 +27,19 @@
     <loc>http://localhost:1313/tags/publication/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/real-water/</loc>
-    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/wiley-nature/</loc>
+    <lastmod>2026-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/acs/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/2026/02/10/publication-est/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/real-water/</loc>
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/award/</loc>
@@ -42,13 +51,16 @@
     <loc>http://localhost:1313/posts/2025/12/11/msa-oral-presentation/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/photocatalysis/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/reactive-membranes/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/adsorption/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cej/</loc>
+    <loc>http://localhost:1313/tags/elsevier/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/11/20/publication-cej/</loc>

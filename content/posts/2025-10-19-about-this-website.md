@@ -4,15 +4,15 @@ date: '2025-10-19'
 categories:
   - other
 tags:
-  - me
-  - website
   - general
+  - website
+  - me
 slug: about-this-website
 ---
 
-This is my personal website, where I feature my [**research directions**](/research/), [**publications**](/pubs/), and [**CV**](/cv/). 
+This is my personal academic website, where I feature my [**research directions**](/research/), [**publications**](/pubs/), and [**CV**](/cv/). 
 
-I also set up a [**blog**](/posts/) where I share my achievements (paper publications, awarded grants, *etc.*), some thoughts on my academic journey, and other stuff.
+I also set up a [**blog**](/posts/) where I share my paper publications, awarded grants, and some thoughts on my academic journey, *etc.*
 
 ## The design of this website
 
